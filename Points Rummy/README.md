@@ -1,11 +1,11 @@
 # POINTS RUMMY
 
 ## How to Play
--Tap on a card to select it. It will be highlighted yellow.
--To throw a card select a card and then tap on the designated area.
--To swap 2 cards, select 2 cards.
--Press Right Arrow key to change the music.
--The first to make a valid declaration wins and gets 0 points.
+- Tap on a card to select it. It will be highlighted yellow.
+- To throw a card select a card and then tap on the designated area.
+- To swap 2 cards, select 2 cards.
+- Press Right Arrow key to change the music.
+- The first to make a valid declaration wins and gets 0 points.
 
 ### Rules:
 - Rummy is a card game based on making sets.
