@@ -1,5 +1,5 @@
 # points-rummy
-This is a game called Points Rummy. An indian variation of the popular game Rummy.
+This is a game called Points Rummy. An indian variation of the popular game Rummy which I made in my first semester at IIITD for my course Intro to Programming.
 
 ## Usage
 - It is written in Python3.6.9 and implemented using pygame. 
