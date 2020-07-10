@@ -12,3 +12,4 @@ python3 PointsRummy.py
 The 13 cards for both the user and the computer are randomly distributed.
 
 ### Logic for Computer
+https://github.com/samikshamodi/points-rummy/issues/1#issue-654678760
