@@ -23,6 +23,7 @@ eg. It picks (a3,a4) and adds (a2,a5) to its picklist.
 eg. It picks (a3,a5) and adds (a4) to its picklist.
   - If that also does not exist then it picks the first card the computer has left, and adds the possible card to complete the sequence in its picklist.<br>
 eg. It picks (a4) and adds (a2,a3,a5,a6) to its picklist. 
+- The computer then tries to form an impure sequence (same suit) 
 
 
 
