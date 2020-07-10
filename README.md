@@ -32,16 +32,16 @@ b. Else if it has 3 jokers then the sequence is completed by taking one card fro
 c. Else if it has 2 jokers then it looks for a sequence of 2 cards. If that is not found then it picks one card from the computer deck and adds the possible card in its picklist. 
 eg. It picks (a4) and adds (a3,a5) to its picklist.
 d. Else if it has 1 joker then it looks for a sequence of 3 cards. 
-  - If that is not found then it looks for a sequence of 2 consecutive cards and updates its picklist.
+    - If that is not found then it looks for a sequence of 2 consecutive cards and updates its picklist.
 eg. It picks (a3,a4) and adds (a2, a5) to its picklist.
-  - If that is also not found then it looks for a sequence with a card missing in between and updates its picklist.
+    - If that is also not found then it looks for a sequence with a card missing in between and updates its picklist.
 eg. It picks (a3,a5) and adds (a4) to its picklist.
-  - If that is also not found then it picks one card from the computer deck and  updates its picklist.
+    - If that is also not found then it picks one card from the computer deck and  updates its picklist.
 eg. It picks (a3) and adds (a2,a4) to its picklist.
 e. Else if has 0 jokers then it looks for a sequence of 4 cards
-  - If that is not found then it looks for a sequence of 3 consecutive cards and updates its picklist. 
+    - If that is not found then it looks for a sequence of 3 consecutive cards and updates its picklist. 
 eg. It picks (a3,a4,a5) and adds (a2, a6) to its picklist.
-  - If that is not found then it looks for a sequence of 2 consecutive cards and updates its picklist.
+    - If that is not found then it looks for a sequence of 2 consecutive cards and updates its picklist.
 eg. It picks (a3,a4) and adds (a5, a6) to its picklist.
   - If that is also not found then it picks one card from the computer deck and adds the possible cards in its picklist.
 eg. It picks (a3) and adds (a4,a5,a6) to its picklist.
