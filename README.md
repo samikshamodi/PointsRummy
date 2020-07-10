@@ -19,7 +19,7 @@ Following is the order followed by the computer.
 **Arranging its Card**
 1. The computer counts and stores the number of jokers it has, removing them from its deck.
 2. It sorts the remaining computer deck in the order a,2,3,4,...j,q,k.
-3. It tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). - Pure
+3. It tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). - Pure<br>
 ⋅⋅1.
 
 
