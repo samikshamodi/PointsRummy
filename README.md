@@ -21,13 +21,13 @@ Following is the order followed by the computer.
 2. It sorts the remaining computer deck in the order a,2,3,4,...j,q,k.
 3. It tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). - Pure
 
-a. If that does not exist then it tries to pick 2 consecutive cards to form a pure sequence, and adds the possible cards to complete the sequence in its picklist.
+ a. If that does not exist then it tries to pick 2 consecutive cards to form a pure sequence, and adds the possible cards to complete the sequence in its picklist.
  eg. It picks (a3,a4) and adds (a2,a5) to its picklist.
  
-b.If that also does not exist then it tries to pick a sequence with a card missing in between, and adds the possible card to complete the sequence in its picklist.
+ b.If that also does not exist then it tries to pick a sequence with a card missing in between, and adds the possible card to complete the sequence in its picklist.
  eg. It picks (a3,a5) and adds (a4) to its picklist.
  
-c. If that also does not exist then it picks the first card the computer has left, and adds the possible cards to complete the sequence in its picklist.
+ c. If that also does not exist then it picks the first card the computer has left, and adds the possible cards to complete the sequence in its picklist.
  eg. It picks (a4) and adds (a3,a5) to its picklist.
 4. It tries to form an impure/pure sequence (same suit) of 4 cards, eg. (pj,a2,a3,a4) - Impure
 a. If it has 4 jokers then the sequence is complete. 
