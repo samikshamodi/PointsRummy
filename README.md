@@ -20,6 +20,9 @@ Following is the order followed by the computer.
 1. The computer counts and stores the number of jokers it has, removing them from its deck.
 2. It sorts the remaining computer deck in the order a,2,3,4,...j,q,k.
 3. It tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). - Pure
+⋅⋅1.
+
+
 ..1. If that does not exist then it tries to pick 2 consecutive cards to form a pure sequence, and adds the possible cards to complete the sequence in its picklist.
  eg. It picks (a3,a4) and adds (a2,a5) to its picklist.
 If that also does not exist then it tries to pick a sequence with a card missing in between, and adds the possible card to complete the sequence in its picklist.
