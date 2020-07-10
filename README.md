@@ -1,6 +1,8 @@
 # points-rummy
 This is a game called Points Rummy. An indian variation of the popular game Rummy which I made in my first semester at IIITD for my course Intro to Programming.
 
+The rules of the game are described in the readme.md present inside the folder Points Rummy.
+
 ## Usage
 - It is written in Python3.6.9 and implemented using pygame. 
 - Open terminal and navigate to the directory Points Rummy.
