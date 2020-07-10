@@ -16,7 +16,7 @@ After considering over a 100 sample cases, the best strategy for the computer to
 
 - The computer first counts and stores the number of jokers it has removing it from its deck.
 - It then sorts the remaining cards in the order a,2,3,4,...j,q,k.
-- First it tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). 
+- First it tries to form a pure sequence (same suit) of 3 cards, eg (a3,a4,a5). <br>
 -- If it does not exist then it tries to pick 2 consecutive cards to form a pure sequence,  and adds the possible cards to complete the sequence in its picklist.<br>
 eg. It picks (a3,a4) and adds (a2,a5) to its picklist.
 -- If that also does not exist then it tries to pick a sequence with a card missing in between, and adds the possible card to complete the sequence in its picklist.<br>
