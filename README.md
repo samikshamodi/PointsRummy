@@ -1,4 +1,4 @@
-# points-rummy
+# Points Rummy
 This is a game called Points Rummy. An indian variation of the popular game Rummy which I made in my first semester at IIITD for my course Intro to Programming.
 
 The rules of the game are described in the readme.md present inside the folder Points Rummy.
