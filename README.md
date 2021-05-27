@@ -5,6 +5,7 @@ The rules of the game are described in the readme.md present inside the folder P
 
 ## Usage
 - It is written in Python3.6.9 and implemented using pygame. 
+- Download this repository.
 - Open terminal and navigate to the directory Points Rummy.
 - Run PointsRummy.py using the following command 
 ```
